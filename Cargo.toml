@@ -1,0 +1,11 @@
+[package]
+name = "raytracer"
+version = "0.0.1"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+hlua = "0.3"
+sdl2 = "0.35.1"
+cgmath="0.18.0"
